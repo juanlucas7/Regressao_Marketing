@@ -1,2 +1,2 @@
-# Regressao_Marketing
-Regressão para estruturar uma análise em um dataset de campanha de marketing.
+## Predição de Valores de Retorno em Relação ao Investimento em Marketing
+Para entender melhor a relação entre as variáveis presentes nesses registros e identificar os fatores que mais impactam na geração de leads, a empresa solicitou uma análise de dados. Além disso, a empresa busca criar um modelo de predição de valores para estimar o retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade.
