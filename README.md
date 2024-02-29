@@ -5,7 +5,7 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
 ## 🚀 Análise Descritiva:
  Esta etapa consiste em explorar os dados do dataset para compreender melhor as variáveis e identificar problemas. Para isso, é foi utilizada a biblioteca Pandas para importar, manipular e realizar cálculos estatísticos com os dados, além das bibliotecas de visualização.
 
- O primeiro passo foi visualizar a base de dados:
+ O primeiro passo foi visualizar a base de dados, tendo as "VENDAS" como variável TARGET:
   
   ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/1b37a73f-510d-4bf7-ace5-54abf62486f7)
 
@@ -21,4 +21,6 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
   Para identificar padrões de linearidade, foi utilizada uma função da biblioteca "seaborn" chamada de  Pairplot. Com isso, foram gerados uma série de gráficos afim de verificar tais informações de forma mais visual:
   
  ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/b64bca86-53a3-4fc3-93da-fbfd88b32fe5)
+
+ 
 
