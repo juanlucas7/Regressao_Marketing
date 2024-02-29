@@ -16,5 +16,9 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
   E por último, foi verificado se existiam valores nulos.
 
 ## 🕵🏾 Análise Exploratória:
-  Neta etapa iremos explorar mais a fundo os dados, identificando relações entre as variáveis e descobrindo padrões relevantes. Para isso, utilize técnicas de Desafio: Construindo um modelo de Regressão para marketing 4 visualização de dados e análises estatísticas, buscando possíveis correlações e identificando possíveis outliers ou desvios da normalidade
+  Nesta etapa os dados vão ser explorados de uma maneira mais profunda, identificando relações entre as variáveis e descobrindo padrões relevantes.
+
+  Para identificar padrões de linearidade, foi utilizada uma função da biblioteca "seaborn" chamada de  Pairplot. Com isso, foram gerados uma série de gráficos afim de verificar tais informações de forma mais visual:
+  
+ ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/b64bca86-53a3-4fc3-93da-fbfd88b32fe5)
 
