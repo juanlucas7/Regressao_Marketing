@@ -22,5 +22,11 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
   
  ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/b64bca86-53a3-4fc3-93da-fbfd88b32fe5)
 
+  Foi gerado também um gráfico de calor para avaliar as correlações:
+
+ ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/0cdb0a3a-3341-499a-9a84-86d3802accbd)
+
+
+
  
 
