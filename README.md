@@ -26,6 +26,25 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
 
  ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/0cdb0a3a-3341-499a-9a84-86d3802accbd)
 
+ Sendo assim, foram avaliadas as correlações mais forte em relação às Vendas e foi feita uma regressão linear com todas as variàveis:
+
+ ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/035de300-841a-4da8-9e2e-65aa9d053264)
+
+ ## 🧮 Modelagem dos Dados:
+
+ E depois disso, foi construído um modelo simples de regressão que permitiu a previsão solicitada pela empresa, com base nos dados disponíveis. Para isso, foi criada uma base de treino para o modelo proposto e outra de treino, possibilitando uma melhor divisão dos dados e uma melhor eficiência do modelo. Além disso, depois das bases já treinadas e testadas, foi gerado o modelo de predição em relação à variável TARGET:
+
+ ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/ace69191-d4da-4928-853a-ce64084d50d1)
+
+
+## 🧪 Conclusão
+
+De modo geral, o modelo solicitado pelo cliente se comportou bem e em muitos momentos foi bem acertivo em relação aos dados que ele gerou, o que nos mostra que através dessas previsões, poderemos avaliar o impacto dos diferentes níveis de
+investimento em marketing nas vendas, auxiliando na tomada de decisões e na definição de estratégias de negócio.
+
+
+
+
 
 
  
