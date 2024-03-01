@@ -3,7 +3,7 @@
 investimentos, a empresa registra todos os gastos com publicidade e todos os retornos de vendas gerados a partir desses investimentos. Para entender melhor a relação entre as variáveis presentes nesses registros e identificar os fatores que mais impactam na geração de leads, a empresa solicitou uma análise de dados. Além disso, a empresa busca criar um modelo de predição de valores para estimar o retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade.
 
 ## 🚀 Análise Descritiva:
- Esta etapa consiste em explorar os dados do dataset para compreender melhor as variáveis e identificar problemas. Para isso, é foi utilizada a biblioteca Pandas para importar, manipular e realizar cálculos estatísticos com os dados, além das bibliotecas de visualização.
+ Esta etapa consiste em explorar os dados do dataset para compreender melhor as variáveis e identificar problemas. Para isso, foi utilizada a biblioteca Pandas para importar, manipular e realizar cálculos estatísticos com os dados, além das bibliotecas de visualização.
 
  O primeiro passo foi visualizar a base de dados, tendo as "VENDAS" como variável TARGET:
   
@@ -26,7 +26,7 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
 
  ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/0cdb0a3a-3341-499a-9a84-86d3802accbd)
 
- Sendo assim, foram avaliadas as correlações mais forte em relação às Vendas e foi feita uma regressão linear com todas as variàveis:
+ Sendo assim, foram avaliadas as correlações mais fortes em relação às Vendas e foi feita uma regressão linear com todas as variáveis:
 
  ![image](https://github.com/juanlucas7/Regressao_Marketing/assets/149596266/035de300-841a-4da8-9e2e-65aa9d053264)
 
